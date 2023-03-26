@@ -21653,7 +21653,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\AppData\\Local\\UiPath\\NugetFallbackFolder": {}
   },
   "project": {
     "restore": {
@@ -21661,7 +21662,10 @@
       "projectName": "RPA COURSE POLICY GENERATOR",
       "projectPath": "C:\\Users\\USER\\Documents\\UiPath\\RPA COURSE POLICY GENERATOR\\.local",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\UiPath\\RPA COURSE POLICY GENERATOR\\.local"
+      "outputPath": "C:\\Users\\USER\\Documents\\UiPath\\RPA COURSE POLICY GENERATOR\\.local",
+      "fallbackFolders": [
+        "C:\\Users\\USER\\AppData\\Local\\UiPath\\NugetFallbackFolder"
+      ]
     },
     "frameworks": {
       "net6.0-windows7.0": {
