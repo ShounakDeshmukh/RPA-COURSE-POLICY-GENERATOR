@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "76mfJurOKsCZwKO0epZw7lLx3gZOzXPzc0l2S1ovPdB9ALkUt9qhQxbd8pe4fGDb7rqjCxjd0HlEHa1vBjYHUg==",
+  "dgSpecHash": "t0O7UzZSqw6sdsMcW1Rg2yMStru86Y0GMsMgbJa+5R76c03X8cluGw6Ag9H7TDauDd7/BnqBBcaR2yzm2n2Vsg==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Documents\\UiPath\\RPA COURSE POLICY GENERATOR\\.local\\",
   "expectedPackageFiles": [
@@ -271,7 +271,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\uipath\\22.10.49.23\\uipath.22.10.49.23.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\uipath.activities.runtimegovernance.1.1.6.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\uipath.connectionclient\\1.4.1\\uipath.connectionclient.1.4.1.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\uipath.excel.activities\\2.17.0-preview\\uipath.excel.activities.2.17.0-preview.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\uipath.excel.activities\\2.19.0-preview\\uipath.excel.activities.2.19.0-preview.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\uipath.imageprocessing\\22.4.1\\uipath.imageprocessing.22.4.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\uipath.mail.activities\\1.18.2\\uipath.mail.activities.1.18.2.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\uipath.ocr.activities\\3.11.0\\uipath.ocr.activities.3.11.0.nupkg.sha512",
@@ -288,18 +288,5 @@
     "C:\\Users\\USER\\.nuget\\packages\\xceed.pdf\\2.0.21359.11160\\xceed.pdf.2.0.21359.11160.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\xceed.words.net\\2.0.21359.11160\\xceed.words.net.2.0.21359.11160.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\USER\\Documents\\UiPath\\RPA COURSE POLICY GENERATOR\\.local",
-      "message": "System.Security.Cryptography.Xml 4.5.0 depends on System.Security.Cryptography.Pkcs (>= 4.5.0) but System.Security.Cryptography.Pkcs 4.5.0 was not found. An approximate best match of System.Security.Cryptography.Pkcs 4.7.0 was resolved.",
-      "libraryId": "System.Security.Cryptography.Pkcs",
-      "targetGraphs": [
-        "net6.0-windows7.0",
-        "net6.0-windows7.0/win10-x64"
-      ]
-    }
-  ]
+  "logs": []
 }
